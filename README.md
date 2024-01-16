@@ -28,3 +28,15 @@ the user will then find the application on their desktop or pinned to the taskba
 - nodemon
 - babel
 - code mirror themes
+
+
+Application manifest and service workers can be found by navigating to the chrome dev tools and then the Application dropdown. 
+
+
+
+Application -> https://jate-text-editor-66gl.onrender.com/
+
+
+## Local Use
+To use locally please run the git close method upon this repository and then run npm i followed by npm run start 
+This will run the application off of localhost:3000 
